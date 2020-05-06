@@ -1,0 +1,36 @@
+#comment-section {
+  width: 500px;
+}
+.comment-form {
+  border: 1px solid black;
+}
+.comment-form-textarea {
+  width: 100%;
+  min-height: 150px;
+}
+.comment-submit-button {
+  width: 80px;
+  height: 30px;
+  background: pink;
+  border: 0;
+  color: white;
+}
+#comment-list {
+  margin: 0;
+  padding: 0;
+}
+.comment {
+  list-style: none;
+}
+.comment img {
+  float: left;
+  margin-right: 16px;
+}
+.comment div {
+  float: left;
+  margin-right: 5px;
+}
+.comment p {
+  clear: both;
+  margin-top: 5px;
+}
